@@ -173,7 +173,7 @@ img {
 	text-shadow: 1px 2px #fdf8f8;
 }
 #adbox div.section h2 {
-	color: #fa8f0d;
+	color: #0099ff;
 	font: 32px/36px 'NobileBoldItalic';
 	margin: 0;
 }
@@ -200,7 +200,7 @@ img {
 	padding: 13px 30px;
 }
 .body h2 {
-	color: #fa8f0d;
+	color: #0099ff;
 	display: inline-block;
 	font: 25px/25px 'NobileBoldItalic';
 	margin: 0;
@@ -270,7 +270,7 @@ img {
 	margin-top: -16px;
 }
 #articles div.frame h2 {
-	color: #fa8f0d;
+	color: #0099ff;
 	font: 31px/36px 'NobileBoldItalic';
 	margin: 24px 0 6px;
 }
@@ -282,7 +282,7 @@ img {
 	margin: 0 0 12px;
 }
 #articles div.frame a.more {
-	color: #fa8f0d;
+	color: #0099ff;
 }
 #featured {
 	clear: both;
@@ -490,7 +490,7 @@ img {
 	color: #a79a77;
 }
 #footer div.body h4 {
-	color: #f9a740;
+	color: #0099ff;
 	font-family: 'NobileBoldItalic';
 	font-weight: normal;
 	margin: 0 0 6px;
